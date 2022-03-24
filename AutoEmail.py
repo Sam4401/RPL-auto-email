@@ -8,7 +8,7 @@ import requests
 import smtplib
 
 modifyEmail = True  #set to true if you want the option of customizing emails
-askApprovalBeforeSend = False # must be on if modify is on
+askApprovalBeforeSend = True # must be on if modify is on
 your_name = "Project Test"
 your_email = "projecttest4401@gmail.com"
 your_password = "Strong@4000" #must update if password is changed
